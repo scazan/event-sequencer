@@ -1,0 +1,9 @@
+{
+  "name": "event-sequencer",
+  "version": "0.1.0",
+  "description": "A sequencer of events (audio, MIDI, animation, whatever)",
+  "main": "src/index.js",
+  "repository": "git@github.com:scazan/event-sequencer.git",
+  "author": "scazan <scottcazan@gmail.com>",
+  "license": "MIT"
+}
